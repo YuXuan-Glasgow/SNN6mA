@@ -1,6 +1,6 @@
 SNN6mA
 (I) Datasets
-If you need the datasets. Download them from our webserver http://202.119.84.36:3079/al6ma/Data.html .Place it in file fold data, please notice that the webserver is not open at BJT 15:00
+If you need the datasets. Download them from our webserver http://202.119.84.36:3079/al6ma/Data.html. Place it in file fold data, please notice that the webserver is not open at BJT 15:00
 
 (II) DataProcessing.py
 This python file is used to encode the sequences.
@@ -9,7 +9,7 @@ This python file is used to encode the sequences.
 The code of the model used in SNN6mA can be obtained in this python file.
 
 (IV) ModelTraining.py
-It is a python file to which does the training process.
+It is a python file which does the training process.
 
 (V) Contact
 Please feel free to contact us, if you are interested in our work or have any suggestions and questions about our research work. E-mail: 2618076Y@student.gla.ac.uk
