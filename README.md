@@ -1,6 +1,6 @@
 SNN6mA
 (I) Datasets
-Dataset is placed inside the folder 'data'
+Dataset is placed inside the folder 'data'.
 
 (II) DataProcessing.py
 This python file is used to encode the sequences.
