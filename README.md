@@ -1,6 +1,6 @@
 SNN6mA
 (I) Datasets& Best model
-Dataset is placed inside the folder 'data'. The model that has the best performance named 'best_model' is placed in the folder 'model'
+Dataset is placed inside the folder 'data'. The model that has the best performance named 'best_model' is placed in the folder 'model'.
 
 (II) DataProcessing.py
 This python file is used to encode the sequences.
