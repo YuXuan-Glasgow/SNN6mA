@@ -1,6 +1,6 @@
 SNN6mA
 (I) Datasets
-If you need the datasets. Download them from our webserver http://202.119.84.36:3079/al6ma/Data.html.place it in file fold data
+If you need the datasets. Download them from our webserver http://202.119.84.36:3079/al6ma/Data.html .Place it in file fold data, please notice that the webserver is not open at BJT 15:00
 
 (II) DataProcessing.py
 This python file is used to encode the sequences.
