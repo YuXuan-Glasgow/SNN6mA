@@ -30,7 +30,7 @@ SAVE_DIR = 'cnn_model_02'
 if not os.path.isdir(f'{SAVE_DIR}'):
     os.makedirs(f'{SAVE_DIR}')
 
-filename = 'data/A.thaliana.xlsx'
+filename = 'data/A.thaliana.xlsx'    # change directory here to apply different datasets.
 
 [X_train, y_train, X_valid, y_valid, X_test, y_test] = load_data(filename)
 
