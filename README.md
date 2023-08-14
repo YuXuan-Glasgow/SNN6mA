@@ -2,7 +2,8 @@ SNN6mA
 
 (I) Datasets& Best model
 
-Dataset is placed inside the folder 'data'. The model that has the best performance named 'best_model' is placed in the folder 'model'.
+Datasets A.thaliana and D.melanogaster are placed inside the folder 'data'. The model that has the best performance named 'best_model_th' stands for the best performance of SNN6mA on A.thaliana
+while 'best_model_me' stands for the best performance of SNN6mA on D.melanogaster. Both datasets are placed in the folder 'model'.
 
 (II) DataProcessing.py
 
