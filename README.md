@@ -22,4 +22,5 @@ Please feel free to contact us, if you are interested in our work or have any su
 
 References
 [1] Y. Zhang, Y. Liu, J. Xu, X. Wang, X. Peng, J. Song, and D.-J. Yu, “Leveraging the attention mechanism to improve the identification of DNA N6-methyladenine sites,” Briefings in Bioinformatics, vol. 22, no. 6, pp. bbab351, 2021.
+
 [2] F. Tan, T. Tian, X. Hou, X. Yu, L. Gu, F. Mafra, B. D. Gregory, Z. Wei, and H. Hakonarson, “Elucidation of DNA methylation on N 6-adenine with deep learning,” Nature Machine Intelligence, vol. 2, no. 8, pp. 466-475, 2020.
