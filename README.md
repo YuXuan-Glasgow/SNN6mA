@@ -14,7 +14,7 @@ This python file contains code of the model used in SNN6mA.
 
 (IV) ModelTraining.py
 
-It is a python file which does the training process.
+It is a python file which does the training process, parameter margin m mentioned in paper can be changed at line 28. A model is saved when its evaluated AUC is larger than previous models.
 
 (V) Contact
 
