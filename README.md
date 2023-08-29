@@ -20,7 +20,7 @@ It is a python file which does the training process, parameter margin m mentione
 
 Please feel free to contact us, if you are interested in our work or have any suggestions and questions about our research work. E-mail: 2618076Y@student.gla.ac.uk
 
-References
+References\n
 
 [1] Y. Zhang, Y. Liu, J. Xu, X. Wang, X. Peng, J. Song, and D.-J. Yu, “Leveraging the attention mechanism to improve the identification of DNA N6-methyladenine sites,” Briefings in Bioinformatics, vol. 22, no. 6, pp. bbab351, 2021.
 
